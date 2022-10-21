@@ -3,7 +3,7 @@
 ## Overview
 The purpose of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program.
 
-### Results
+## Results
 There are 1266 vine reviews and 62028 non vine reviews
 
 432 were 5 star vine reviewers 
